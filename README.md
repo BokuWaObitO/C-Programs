@@ -1,30 +1,5 @@
 # C-Programs
-A Repository full of C-Programs. :slightly_smiling_face:
-
-## Collaborators
-* **[Harsh Trivedi](https://harsh98trivedi.github.io)** - Managing the Repository, Adding some basic + intermediate C-Programs, etc.
-* **[Kratinjay Gupta](https://www.facebook.com/kratinjay)** - Adding some basic + intermediate C-Programs, etc.
-* **[Wishal Kumar](https://www.facebook.com/wishalkumar)** - Adding some basic + intermediate C-Programs, etc.
-* **[Hitanshu Sahu](https://phantom-cluster.github.io)** - Adding some basic + intermediate C-Programs, etc.
-* **[Rohit Motwani](https://twitter.com/rohittm)** - Adding some basic + intermediate + advance C-Programs, etc.
-* **[Raunak Hajela](https://twitter.com/raunakhajela)** - Adding some basic + intermediate + advance C-Programs, etc.
-* **[Tushar Mittal](https://techytushar.github.io)** - Adding some basic + intermediate + advance C-Programs, etc.
-* **[Shubham Gaur](http://sumitsg10.github.io)** - Adding some basic + intermediate C-Programs, etc.
-* **[Mohit Singh](https://www.facebook.com/OfficialMohitSingh)** - Adding some basic + intermediate C-Programs, etc.
-* **[Vivek Kumar Kanaujia](https://twitter.com/vivdroid)** - Adding some basic + intermediate + advance C-Programs, etc.
-
-## How to Collaborate?
-Collaborating on this Repository is really easy, you just have to push the code, but make sure you :
-* Add some easy to understand comments.
-* Give some meaningful variable & function names.
-* Your filename should be easy to recognize. (For example, if you've made a program to print the sum of 2 integers, then the filename can be sum.c or something like that.)
-
-### Thanks everyone who contributed to this repository by making a Pull request for the issues.
-* **[Piyush Mehta](https://github.com/piyush97)**
-* **[Anil Khatri](https://github.com/imkaka)**
-* **[Austin Benavidez](https://github.com/stnbnvdz)**
-* **[Ben Stewart](https://github.com/sbenstewart)**
-* **[Anirudh Bhat](https://github.com/anirudh1200)**
+A Repository full of C-Programs. :
 
 ## License
 This is free and unencumbered software released into the public domain.
